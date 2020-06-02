@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello World, Time is `date`" >> /tmp/log_file.log
+echo "Hello World, My Name is Prish, Time is `date`" >> /tmp/log_file.log
