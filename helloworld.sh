@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Hello World, Time is `date`" > $HOME/logfile.log
+#!/bin/sh
+echo "Hello World, Time is `date`" >> /tmp/logfile.log
